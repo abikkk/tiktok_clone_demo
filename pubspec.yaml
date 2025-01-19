@@ -22,9 +22,11 @@ dependencies:
   get: ^4.6.6
   cached_network_image: ^3.4.1
   flutter_secure_storage: ^9.2.4
-  cached_video_player: ^2.0.4
+#  cached_video_player: ^2.0.4
   cloud_firestore: ^5.6.1
-  video_player: ^2.6.0
+#  cached_video_player_plus: ^3.0.3
+#  flutter_cache_manager: ^3.4.1
+  video_player: any
 
 dev_dependencies:
   flutter_test:
