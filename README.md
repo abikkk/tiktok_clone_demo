@@ -12,8 +12,7 @@
 
 ## About
 
-Real short video app with firebase and pixels API.Where you can create a short video with pixels'
-stock videos and also merge your audio.
+Simple video player app with Google FireStore and Firebase authentication.
 
 ## Dependencies<br/>
 
@@ -33,16 +32,15 @@ stock videos and also merge your audio.
 ## How to use
 
 To clone and run this application, you'll need [Git](https://git-scm.com/downloads)
-and [Flutter](https://flutter.dev/docs/get-started/install) installed on your computer. From your
-command line:
+and [Flutter](https://flutter.dev/docs/get-started/install) installed on your computer.
 
-### Clone this repository
+### Clone this repo
 
 ```
 gh repo clone abikkk/tiktok_clone_demo
 ```
 
-### Go into the repository
+### Navigate to the repo
 
 ```
 cd tiktok_clone_demo
